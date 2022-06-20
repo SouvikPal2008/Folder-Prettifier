@@ -1,6 +1,6 @@
 # OS
 
-OS Is A Python Module Which Can Interact With The Operating Sysytem.
+OS Is A Python Module Which Can Interact With The Operating System.
 
 ## Installation
 
